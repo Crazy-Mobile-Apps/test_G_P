@@ -1,8 +1,5 @@
 import 'dart:io';
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:testp/User_Interface/User_Interface.dart';
 import 'package:testp/User_Interface/home2.dart';
 import 'package:testp/colors/colors.dart';
 
